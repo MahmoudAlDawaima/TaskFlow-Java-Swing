@@ -120,7 +120,7 @@ public class SettingsPanel extends javax.swing.JPanel {
         jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 200, 370, 60));
 
         jLabel2.setForeground(new java.awt.Color(204, 204, 204));
-        jLabel2.setText("TaskFlow v1.0 - Developed by Archi");
+        jLabel2.setText("TaskFlow v1.0 - Developed by Mahmoud Al-Dawaima");
         jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 310, -1, -1));
 
         jButton2.setText("Back to Dashboard");
